@@ -1,0 +1,14 @@
+// .map()
+// .filter ()
+// . reduce ()
+
+// we have ; 
+// arrays, properties, objects(string, numbers)
+// -----------------------------------------------------------------------
+// total salary for all players  <= 45000
+
+// positions; 'P', 'C', '1B', '2B', '3B', 'SS', 'OF', 'OF', 'OF'
+
+// Team ID ; 12, 22,18,14,27,11,15   not more than 2 players 
+
+// Game ID; 123,115,101,134,126,131,119 not more than 3 players from single game 
